@@ -41,6 +41,7 @@ public class Calculadora {
                 System.out.println("Operador inválido.");
                 return;
         }
+        ###modificacion
 
         System.out.println("El resultado es: " + resultado);
     }
