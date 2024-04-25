@@ -8,6 +8,7 @@ package com.mycompany.calculadora2;
  *
  * @author admin
  */
+
 public class Calculadora2 {
 		private int num1;
 		private int num2;
